@@ -1,1 +1,1 @@
-iam the repo with reset and other paramerters
+hello using the git reset and changing file 
